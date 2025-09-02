@@ -43,7 +43,6 @@ python main.py
 ## 🏆 Leveling Up
 
 Each successful crossing increases the level and car speed
-
 Challenge yourself to reach the highest level without crashing
 
 ## ❤️ Have Fun!
